@@ -22,4 +22,5 @@ The application was originally hosted on AWS.
 
 Instructions for running locally coming soon....
 
+## Main Page
 ![Visual](./Visual.png)
